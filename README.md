@@ -1,16 +1,29 @@
-# nabd
+🎉 إطلاق تطبيق نبض - Pulse
+تطبيق طبي ذكي يهدف إلى تسهيل التواصل بين المرضى والأطباء بطريقة آمنة، سرّية، وسريعة.
 
-A new Flutter project.
+🩺 مميزات تطبيق نبض:
+🔹 تواصل مباشر بين المريض والطبيب عبر دردشة نصية سرّية، دون كشف هوية المريض.
+🔹 حرية للطبيب في الرد أو تقديم المساعدة أو النصيحة.
+🔹 تسجيل فوري وسهل للمريض كضيف (Guest) باستخدام معرّف الجهاز (Device ID)، بدون الحاجة لإنشاء حساب.
+🔹 تسجيل مبسّط للأطباء مع إمكانية إدارة المحادثات.
+🔹 نظام تقييم يتيح للمرضى تقييم الأطباء، ويُعرض الأطباء الأعلى تقييماً في الصفحة الرئيسية.
 
-## Getting Started
+🛠️ التقنيات المستخدمة:
 
-This project is a starting point for a Flutter application.
+Flutter + Dart
 
-A few resources to get you started if this is your first Flutter project:
+Firebase (Authentication – Firestore – Messaging)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hive للتخزين المحلي
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clean Architecture – MVVM
+
+State Management: Bloc & Cubit
+
+Push Notifications
+
+استخدام العديد من الحزم الخارجية المفيدة
+
+💡 تم تطوير هذا المشروع بشغف لتقديم حل رقمي فعال يُسهم في تحسين تجربة التواصل في المجال الطبي.
+
+💬 يسعدني قراءة آرائكم ومقترحاتكم، وأرحب بأي فرص تعاون مستقبلية!
